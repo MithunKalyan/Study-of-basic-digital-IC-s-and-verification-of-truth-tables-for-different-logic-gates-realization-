@@ -16,6 +16,7 @@ AND gate
 
 OR gate
 
+
 NOT gate
 
 NAND gate
