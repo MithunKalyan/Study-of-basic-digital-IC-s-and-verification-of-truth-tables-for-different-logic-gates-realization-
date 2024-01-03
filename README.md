@@ -15,6 +15,7 @@ Logic gates are the basic building blocks of any digital system. Logic gates are
 
 AND gate
 
+
 OR gate
 
 
